@@ -55,7 +55,7 @@ if you like what i do, maybe consider becoming my Patreon 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AttractiveDog&show_icons=true&theme=gotham" alt="Vedansh Mishra" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VedanshMishra&show_icons=true&theme=gotham" alt="Vedansh Mishra" />
 
 
 
